@@ -2,6 +2,8 @@
 
 Experiments with Alpine in embedded systems.
 
+See [project board](https://github.com/orgs/YoeDistro/projects/1).
+
 ## Why Alpine for Embedded?
 
 Often, server technologies make good embedded technologies because both have to
